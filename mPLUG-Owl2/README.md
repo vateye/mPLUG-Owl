@@ -33,6 +33,7 @@ Qinghao Ye*, Haiyang Xu*, Jiabo Ye*, Ming Yan†, Anwen Hu, Haowei Liu, Qian Qi,
 </div>
 
 ## News and Updates
+* ```2023.11.09``` 🔥🔥🔥 The paper has been released [here](http://arxiv.org/abs/2311.04257).
 * ```2023.11.08``` 🔥🔥🔥 We relaese **mPLUG-Owl2** on both modelscope and Huggingface. The paper will be released soon for more details about the model, including training details and model performance.
 
 
